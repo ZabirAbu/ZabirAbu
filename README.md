@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **in open source projects**
+- 👯 I’m looking to collaborate **in open source projects**
 
 - 💬 Ask me about **Python**
 
