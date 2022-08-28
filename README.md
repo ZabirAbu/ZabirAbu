@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zabir.abu02@gmail.com**
 
-- ⚡ Fun fact **I can speak multiple languages**
+- ⚡ Fun fact: **I can speak multiple languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
