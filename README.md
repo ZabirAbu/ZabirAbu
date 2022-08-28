@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate **in open source projects**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Computer Architecture, Object Oriented Programming**
 
 - 📫 How to reach me **zabir.abu02@gmail.com**
 
