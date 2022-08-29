@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zabir Abu</h1>
-<h3 align="center">A prospective Software Engineer from the UK</h3>
+<h1 align="center">Hi, I'm Zabir 👋</h1>
+<h3 align="center">Computer Science Undergrad from the UK 🇬🇧</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zabirabu&label=Profile%20views&color=0e75b6&style=flat" alt="zabirabu" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate **in open source projects**
+- 🤝 I’m looking to collaborate **in open source projects**
 
 - 💬 Ask me about **Computer Architecture, Object Oriented Programming**
 
-- 📫 How to reach me **zabir.abu02@gmail.com**
+- 📫 How to reach me: **zabir.abu02@gmail.com**
 
 - ⚡ Fun fact: **I can speak multiple languages**
 
