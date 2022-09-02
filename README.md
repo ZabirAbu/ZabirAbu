@@ -2,8 +2,6 @@
 <h3 align="center">Computer Science Undergrad from the UK</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zabirabu" alt="zabirabu" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning, Data Structures and Algorithms**
 
 - 🤝 I’m looking to collaborate **in open source projects**
